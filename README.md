@@ -1,4 +1,5 @@
-# DATE
+# DATE : 23/01/2026
+
 # EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
 # AIM 
@@ -21,18 +22,17 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # IP CONNECTIVITY TABLE
+<img width="979" height="228" alt="1C" src="https://github.com/user-attachments/assets/e66a291d-633f-4241-94fb-292a135aa62c" />
 
 
 
 # NETWORK DIAGRAM
+<img width="1280" height="717" alt="1A" src="https://github.com/user-attachments/assets/6799af0b-ff71-4769-93a7-d92e06013640" />
 
+## OUTPUT:
+![1B](https://github.com/user-attachments/assets/48a466f3-43bf-4972-ab26-245cd89ece4d)
 
-
-
-# OUTPUT
-
-
-# RESULT
+## RESULT:
 
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
 
